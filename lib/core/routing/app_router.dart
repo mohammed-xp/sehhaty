@@ -19,7 +19,7 @@ class AppRouter {
           builder: (context) => Scaffold(
             body: Center(
               child: Text(
-                'No route defined for ${settings.name}',
+                'No route defined for ${settings.name} ',
                 style: Theme.of(context).textTheme.headlineMedium,
               ),
             ),
