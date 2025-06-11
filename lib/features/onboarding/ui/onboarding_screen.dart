@@ -28,7 +28,7 @@ class OnboardingScreen extends StatelessWidget {
                   children: [
                     Text(
                       'Manage and schedule all of your medical appointments easily with Sehhaty to get a new experience.',
-                      style: Styles.font13Gray400Weight,
+                      style: Styles.font13GrayRegular,
                       textAlign: TextAlign.center,
                     ),
                     SizedBox(height: 32.h),
